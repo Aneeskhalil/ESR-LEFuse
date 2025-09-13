@@ -4,7 +4,6 @@
 
 <div align="center">
   
-[Paper (ICSPS 2025)](#citation) • Datasets: [LLVIP](https://github.com/bupt-ai-cz/LLVIP) / M3FD  
 Benchmarks: PSNR ↑ 37.81 / SSIM ↑ 0.9667 (vs. Bicubic 4×, LLVIP) · EN ↑ 7.78 · AG ↑ 11.57 · SF ↑ 22.21
 
 </div>
